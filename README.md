@@ -75,6 +75,8 @@ cv2.destroyAllWindows()
 
 ![2024-09-25](https://github.com/user-attachments/assets/d2391592-8384-4296-b55e-7268d65b3dbf)
 
+
+
 ![2024-09-25 (1)](https://github.com/user-attachments/assets/2529b564-bc54-4ee8-97c3-72851c106ddd)
 
 ### Histogram of Grayscale Image and any channel of Color Image
@@ -87,9 +89,13 @@ cv2.destroyAllWindows()
 
 ### Gray Image
 
+
+
 ![image](https://github.com/user-attachments/assets/9d223fe3-7dbb-40f7-89bf-7fbb34763248)
 
 ### Equalixation Image
+
+
 
 ![image](https://github.com/user-attachments/assets/1fa12fbc-ee14-4209-8192-3e3642f47287)
 
